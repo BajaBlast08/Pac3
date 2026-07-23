@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lobstah/props/clothing/beret/beret_sheet7"
+	"$basealphaenvmapmask" 1
+	"$halflambert" 1
+	"$nocull" 1
+}
