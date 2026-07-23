@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" 	"lobstah\props\clothing\beret\beret_sheet6"
-	"$basealphaenvmapmask" 1
-	"$halflambert" 1
-	"$nocull" 1
-}
